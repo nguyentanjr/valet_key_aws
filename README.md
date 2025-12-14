@@ -8,6 +8,11 @@ A modern, high-performance cloud storage application built with Spring Boot and 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue.svg)](https://www.postgresql.org/)
 [![AWS S3](https://img.shields.io/badge/AWS-S3-orange.svg)](https://aws.amazon.com/s3/)
 
+
+## Architechture
+<img width="1476" height="1506" alt="image" src="https://github.com/user-attachments/assets/a8a9889a-6310-4657-8549-2b8c1409f7a7" />
+
+
 ## ✨ Features
 
 ### Core Features
